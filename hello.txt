@@ -13,4 +13,4 @@ hello SUSTech! hello git!
 hello SUSTech! hello git!
 hello SUSTech! hello git!
 hello SUSTech! hello git! master test
-hello SUSTech! hello git!
+hello SUSTech! hello git! hot-fix test
